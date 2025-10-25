@@ -12,7 +12,8 @@ Built by **Shane Green (Shanzo)**.
 
 ## How to Run
 1. Clone the repo:
-   
+git clone [https://github.com/shanzoig/cybersecurity-quiz-cli.git](https://github.com/shanzoig/cybersecurity-quiz-cli.git)
 3. Navigate to the folder:
-   
+cd cybersecurity-quiz-cli
 4. Run the script:
+python main.py
