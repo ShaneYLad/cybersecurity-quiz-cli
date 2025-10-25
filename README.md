@@ -17,3 +17,5 @@ git clone [https://github.com/shanzoig/cybersecurity-quiz-cli.git](https://githu
 cd cybersecurity-quiz-cli
 4. Run the script:
 python main.py
+
+## Enjoy your expansion of cyber security!
