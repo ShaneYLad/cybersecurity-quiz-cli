@@ -4,7 +4,7 @@ A modular, beginner-friendly command-line quiz app to test your knowledge of cyb
 
 ![Built by Shane Green (ShaneYLad)](https://img.shields.io/badge/Built%20by-Shane%20Green%20(ShaneYLad)-blueviolet)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
