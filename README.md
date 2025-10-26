@@ -2,7 +2,7 @@
 
 A beginner-friendly command-line quiz app to test your knowledge of cybersecurity threats and best practices.
 
-Built by **Shane Green (Shanzo)**.
+Built by **Shane Green (Shanzo/ShaneYLad)**.
 
 ## Features
 - Modular sections: Phishing, Malware, Password Security, Network Security
