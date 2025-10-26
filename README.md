@@ -2,7 +2,7 @@
 
 A beginner-friendly command-line quiz app to test your knowledge of cybersecurity threats and best practices.
 
-Built by **Shane Green (Shanzo/ShaneYLad)**.
+Built by **Shane Green (ShaneYLad)**.
 
 ## Features
 - Modular sections: Phishing, Malware, Password Security, Network Security
@@ -12,7 +12,7 @@ Built by **Shane Green (Shanzo/ShaneYLad)**.
 
 ## How to Run
 1. Clone the repo:
-git clone [https://github.com/shanzoig/cybersecurity-quiz-cli.git](https://github.com/shanzoig/cybersecurity-quiz-cli.git)
+git clone [https://github.com/shanzoig/cybersecurity-quiz-cli.git](https://github.com/ShaneYLad/cybersecurity-quiz-cli.git)
 3. Navigate to the folder:
 cd cybersecurity-quiz-cli
 4. Run the script:
