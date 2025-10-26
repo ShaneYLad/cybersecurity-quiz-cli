@@ -542,7 +542,7 @@ def main():
     print("====================================================================")
     print("                 Welcome to the Cyber Security Quiz!")
     print("Test your knowledge about cyber security threats and best practices.")
-    print("                 Author: Shane Green (Shanzo)")
+    print("                Author: Shane Green (Shanzo/ShaneYLad)")
     print("====================================================================\n")
     
     print("\033[32mPress A Key to begin...\033[0m")
@@ -576,4 +576,5 @@ def main():
             time.sleep(2)
 
 if __name__ == "__main__":
+
     main()
