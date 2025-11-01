@@ -51,5 +51,5 @@ python main.py
 
 ## 🧑‍💻 Author
 **Shane Green (ShaneYLad)**  
-Email: [shanzoig@proton.me](mailto:shanzoig@proton.me)   
+Email: [shane.green1@proton.me](mailto:shane.green1@proton.me)   
 Signal: [ShaneGreen.76](https://signal.me/#eu/4fPKFJ5PoE7nb0EgDM5DKx2LlOy2ebWx6JBoCaahT04sMW92hJhMC54AJrfE6Iwk)  
